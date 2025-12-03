@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Outlet } from 'react-router-dom';
+import "tailwindcss";
 import Navbar from './Components/navbar/Navbar.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './index.css'

@@ -1,6 +1,5 @@
 import React from "react";
 import LightGallery from "lightgallery/react";
-import './Css/gallery.css';
 import mumbai from '../assets/mumbai.jpg';
 import image from '../assets/imagee.jpg'
 import image1 from '../assets/image1.jpg'
@@ -21,6 +20,7 @@ import tokyo from '../assets/tokyo.jpg';
 import "lightgallery/css/lightgallery.css";
 import "lightgallery/css/lg-zoom.css";
 import "lightgallery/css/lg-thumbnail.css";
+import "../Css/Gallery.css";
 import "lightgallery/scss/lightgallery.scss";
 import "lightgallery/scss/lg-zoom.scss";
 import lgThumbnail from "lightgallery/plugins/thumbnail";

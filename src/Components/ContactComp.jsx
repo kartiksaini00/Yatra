@@ -1,5 +1,6 @@
 import React from 'react'
-import contactImg from '../assets/contactimg.jpg'
+import contactimg from "../assets/ContactImg.jpg";
+
 
 const ContactComp = () => {
   return (
@@ -51,4 +52,4 @@ const ContactComp = () => {
   )
 }
 
-export default Contact
+export default ContactComp
