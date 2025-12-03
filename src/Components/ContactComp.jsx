@@ -1,7 +1,7 @@
 import React from 'react'
 import contactImg from '../assets/contactimg.jpg'
 
-const Contact = () => {
+const ContactComp = () => {
   return (
     <div className='flex flex-col max-w-7xl mx-auto md:flex-row lg:h-screen items-center'>
         <div className='flex-1 bg-gray-100 flex justify-center items-cneter'>

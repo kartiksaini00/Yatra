@@ -1,5 +1,5 @@
 import React from 'react'
-import Contactcomp from '../Components/Contact.jsx'
+import Contactcomp from '../Components/ContactComp.jsx'
 import TopBanner from '../Components/TopBanner'
 
 const Contact = () => {

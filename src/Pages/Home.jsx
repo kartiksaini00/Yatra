@@ -4,7 +4,7 @@ import FeatureDestination from '../Components/FeatureDestination.jsx'
 import Features from '../Components/Features.jsx'
 import Gallerycomp from '../Components/Gallerycomp.jsx'
 import Banner from '../Components/Banner.jsx'
-import Contact from '../Components/Contact.jsx'
+import Contact from '../Components/ContactComp.jsx'
 
 const Home = () => {
   return (
